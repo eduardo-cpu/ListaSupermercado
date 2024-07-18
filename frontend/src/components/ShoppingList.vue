@@ -158,8 +158,8 @@ button:hover {
 }
 
 .item-photo-container {
-  width: 150px; /* Tamanho fixo da largura */
-  height: 150px; /* Tamanho fixo da altura */
+  width: 150px;
+  height: 150px;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -168,8 +168,8 @@ button:hover {
 }
 
 .item-photo {
-  width: 100%; /* Ocupa 100% da largura do contêiner */
-  height: 100%; /* Ocupa 100% da altura do contêiner */
+  width: 100%;
+  height: 100%;
   object-fit: cover;
 }
 
